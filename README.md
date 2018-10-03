@@ -15,8 +15,11 @@ We are using the DNN module within opencv to utilize the pre-trained InceptionV2
 
 ## Usage
 At the command prompt:
+
 $python image_instance_segmentation.py
 (Running without arguments assumes the input device is webcam on the local machine)
+
 $python image_instance_segmentation.py --image <path-to-image-file>
+  
 $python image_instance_segmentation.py --video <path-to-video-file>
 
