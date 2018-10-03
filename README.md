@@ -7,6 +7,11 @@ http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_v2_co
 
 Update the model file "frozen_inference_graph.pb" from the latest checkpoint when using this code. (Ensure the model file can be found. Modify the path in code to reflect any changes in path to this file.)
 
+Details on Mask RCNN:
+https://modelzoo.co/model/mask-r-cnn-keras
+Based on this awesome blog on opencv:
+https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/
+
 ## Requirements
 This code uses opencv library https://opencv.org/
 Install opencv for python: $pip install opencv-contrib-python
