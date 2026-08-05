@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="docs/banner.svg" alt="Image Instance Segmentation — multi-object segmentation via Mask R-CNN through OpenCV DNN" width="100%">
+</div>
 # Image Instance Segmentation
 
 <div align="center">
